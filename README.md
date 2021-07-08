@@ -25,4 +25,3 @@
 
 ![5](https://github.com/Prithiviraj69/ImgGestures/blob/main/ImgGesture/5.png)
 
-![6](https://github.com/Prithiviraj69/ImgGestures/blob/main/ImgGesture/6.png)
